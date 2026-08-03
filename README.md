@@ -44,8 +44,8 @@ I love building things, learning new technologies, and improving a little every 
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: [Your GitHub Profile](https://github.com/abhranill)
-- 📧 Email: your.email@example.com
+- 💼 GitHub: github.com/abhranill
+- 📧 Email: abhranil.roy07@gmail.com
 - 🌐 Portfolio: Coming Soon 🚧
 
 ---

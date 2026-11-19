@@ -1,21 +1,216 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building practical web applications like Canteen Management, Hostel Management & Healthcare platforms, while improving my full-stack development skills.<br><br>👯 I’m looking to collaborate on<br>Web development, AI/ML, healthcare-tech, and real-world problem-solving projects.<br><br>🤝 I’m looking for help with<br>Improving my backend architecture, system design, and Machine Learning skills.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, Machine Learning, Python, and advanced full-stack development.<br><br>💬 Ask me about<br>React, Next.js, TypeScript, C++, Git/GitHub, DSA, and building projects from scratch.<br><br>⚡ Fun fact<br>I learn best by building projects — if I learn something new, I usually try to turn it into a working application.
+<!-- ===================== HERO ===================== -->
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abhranill&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abhranill&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhranill&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,50:15102B,100:00D9FF&height=180&section=header&text=ABHRANIL%20ROY&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20AI%2FML%20Explorer%20%7C%20CSE%20Student&descAlignY=60&descSize=16" width="100%" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhranill&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Abhranil+Roy+%F0%9F%91%8B;B.Tech+Computer+Science+Student;Full+Stack+Developer;Exploring+AI%2C+ML+%26+Data+Science;Building+things+that+actually+work+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhranill&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abhranill&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===================== ABOUT ===================== -->
+
+<div align="center">
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<!-- IMPORTANT: Upload your photo to the repository as assets/profile.jpg -->
+
+<img src="assets/profile.jpg" width="260" alt="Abhranil Roy" />
+
+</td>
+<td width="65%">
+
+## `whoami`
+
+🎓 **B.Tech CSE Student**  
+💻 **Developer & Technology Enthusiast**  
+🤖 Exploring **AI / ML / Data Science**  
+🔐 Interested in **Cyber Security**  
+🚀 Building projects and learning by doing  
+
+> *"Build. Learn. Break. Fix. Repeat."*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">⚡ GitHub Dashboard</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhranill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=9D4EDD&text_color=FFFFFF&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhranill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+<!-- ===================== STREAK ===================== -->
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhranill&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=9D4EDD&currStreakLabel=00D9FF" />
+
+</div>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhranill/abhranill/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel,docker" />
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 TinyGPT
+
+A tiny language model built from scratch to understand the fundamentals of GPT architecture.
+
+**Tech:** Python · PyTorch · Transformers
+
+</td>
+<td width="50%">
+
+### 🌍 Travel With Limon
+
+A modern travel website showcasing destinations, tour packages and travel experiences.
+
+**Tech:** Next.js · Tailwind CSS · Shadcn UI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💰 Smart Expense Tracker
+
+A web application for tracking expenses and managing personal finances.
+
+**Tech:** React · Node.js · MongoDB
+
+</td>
+<td width="50%">
+
+### 🍽️ CanteenHub
+
+A modern canteen management application with a web-based interface.
+
+**Tech:** Next.js · Tailwind CSS
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== CURRENTLY ===================== -->
+
+<h2 align="center">🎯 Currently Working On</h2>
+
+<div align="center">
+
+```text
+🧠  Learning Data Structures & Algorithms
+🤖  Exploring Machine Learning
+⚡  Building real-world projects
+💻  Practicing competitive programming
+🌱  Growing as a software developer
+```
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/abhranill">
+<img src="https://img.shields.io/badge/GitHub-abhranill-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Add your LinkedIn URL below -->
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- Add your portfolio URL below when ready -->
+<a href="https://github.com/abhranill">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:15102B,100:00D9FF&height=120&section=footer" width="100%" />
+
+### 💫 *Build • Learn • Explore • Repeat*
+
+<img src="https://komarev.com/ghpvc/?username=abhranill&style=for-the-badge&color=00D9FF" alt="Profile views" />
+
+</div>

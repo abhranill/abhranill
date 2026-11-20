@@ -1,4 +1,4 @@
-<!-- ===================== HERO ===================== -->
+# ===================== HERO =====================
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+# 👨‍💻 About Me
 
 <div align="center">
 
@@ -18,14 +18,12 @@
 <tr>
 <td width="35%" align="center">
 
-<!-- IMPORTANT: Upload your photo to the repository as assets/profile.jpg -->
-
 <img src="assets/profile.jpg" width="260" alt="Abhranil Roy" />
 
 </td>
 <td width="65%">
 
-## `whoami`
+### `whoami`
 
 🎓 **B.Tech CSE Student**  
 💻 **Developer & Technology Enthusiast**  
@@ -43,9 +41,7 @@
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-<h2 align="center">⚡ GitHub Dashboard</h2>
+# ⚡ GitHub Dashboard
 
 <div align="center">
 
@@ -57,9 +53,7 @@
 
 ---
 
-<!-- ===================== STREAK ===================== -->
-
-<h2 align="center">🔥 Contribution Streak</h2>
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -69,21 +63,34 @@
 
 ---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhranill/abhranill/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abhranill/abhranill/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/abhranill/abhranill/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/abhranill/abhranill/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+
+</picture>
 
 </div>
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
-<h2 align="center">🛠️ Tech Stack</h2>
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -107,9 +114,7 @@
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
-<h2 align="center">🚀 Featured Projects</h2>
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -124,6 +129,7 @@ A tiny language model built from scratch to understand the fundamentals of GPT a
 **Tech:** Python · PyTorch · Transformers
 
 </td>
+
 <td width="50%">
 
 ### 🌍 Travel With Limon
@@ -145,6 +151,7 @@ A web application for tracking expenses and managing personal finances.
 **Tech:** React · Node.js · MongoDB
 
 </td>
+
 <td width="50%">
 
 ### 🍽️ CanteenHub
@@ -161,9 +168,7 @@ A modern canteen management application with a web-based interface.
 
 ---
 
-<!-- ===================== CURRENTLY ===================== -->
-
-<h2 align="center">🎯 Currently Working On</h2>
+# 🎯 Currently Working On
 
 <div align="center">
 
@@ -179,9 +184,7 @@ A modern canteen management application with a web-based interface.
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
-<h2 align="center">🌐 Connect With Me</h2>
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -189,12 +192,10 @@ A modern canteen management application with a web-based interface.
 <img src="https://img.shields.io/badge/GitHub-abhranill-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Add your LinkedIn URL below -->
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- Add your portfolio URL below when ready -->
 <a href="https://github.com/abhranill">
 <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -203,7 +204,7 @@ A modern canteen management application with a web-based interface.
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+# 💫 Footer
 
 <div align="center">
 
